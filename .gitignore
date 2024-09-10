@@ -1,0 +1,5 @@
+move_s3.log
+move_s3.log.*
+temp/*
+__pycache__/*
+helper/__pycache__/*
